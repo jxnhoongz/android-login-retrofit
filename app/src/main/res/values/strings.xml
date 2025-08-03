@@ -1,3 +1,36 @@
 <resources>
-    <string name="app_name">LoginRetrofit</string>
+    <string name="app_name">Login Retrofit</string>
+
+    <!-- Login Screen -->
+    <string name="login_title">Welcome Back</string>
+    <string name="login_subtitle">Sign in to continue</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="dont_have_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign Up</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard_title">Dashboard</string>
+    <string name="welcome_user">Welcome, Vatana!</string>
+    <string name="logout">Logout</string>
+
+    <!-- Error Messages -->
+    <string name="error_empty_phone">Phone number is required</string>
+    <string name="error_empty_password">Password is required</string>
+    <string name="error_invalid_phone">Please enter a valid phone number</string>
+    <string name="error_password_length">Password must be at least 6 characters</string>
+    <string name="error_network">Network error. Please check your connection</string>
+    <string name="error_server">Server error. Please try again later</string>
+    <string name="error_invalid_credentials">Invalid phone number or password</string>
+    <string name="error_unknown">An unexpected error occurred</string>
+
+    <!-- Success Messages -->
+    <string name="login_success">Login successful!</string>
+    <string name="logout_success">Logged out successfully</string>
+
+    <!-- Loading -->
+    <string name="loading">Loading...</string>
+    <string name="authenticating">Authenticating...</string>
 </resources>
